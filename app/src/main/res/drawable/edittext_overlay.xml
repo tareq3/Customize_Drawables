@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Tareq Islam on 10/14/18 7:55 PM
+  ~
+  ~  Last modified 10/14/18 7:55 PM
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke android:width="2dp"
+        android:color="#EEFFFF"/>
+    <corners android:radius="5dp"/>
+
+</shape>

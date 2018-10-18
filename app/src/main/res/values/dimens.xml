@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Tareq Islam on 10/14/18 9:20 PM
+  ~
+  ~  Last modified 10/14/18 9:20 PM
+  -->
+
+<resources>
+    <dimen name="depth">2dp</dimen>
+</resources>

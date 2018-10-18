@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Tareq Islam on 10/14/18 9:07 PM
+  ~
+  ~  Last modified 10/14/18 7:47 PM
+  -->
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorPrimaryDark">#00695C
+
+      </color>
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="teal_800">#00695C</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="colorAccent">#00B8D4</color>
+</resources>
